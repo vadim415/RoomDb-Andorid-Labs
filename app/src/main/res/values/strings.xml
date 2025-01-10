@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomDb</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Posts</string>
+    <string name="add_fragment_label">Add</string>
+    <string name="update_fragment_label">Update</string>
+
+    <string name="add_post_btn">Add Post</string>
+    <string name="post_title">Post title</string>
+    <string name="post_content">Content</string>
+    <string name="post_category">Category</string>
+    <string name="add_post">Add</string>
+    <string name="post_image_url">Image url</string>
+    <string name="post_image">Post image</string>
+    <string name="delete_post">Delete post</string>
+</resources>
